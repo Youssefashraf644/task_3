@@ -1,0 +1,13 @@
+mdkir task1 
+cd task1
+git init 
+git clone Youssefashraf644/task1.git
+git add README.md
+git commit task1 
+git remote add origin Youssefashraf644/task1.git
+git branch task1 main 
+git push task1 origin main 
+git add README.md 
+git commit task1 
+git push 
+git pull 
